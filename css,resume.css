@@ -1,0 +1,17 @@
+
+#pic{
+    border-radius: 200px;
+}
+
+.skill_table{
+    border: 1px solid black;
+    width: 200px;
+}
+
+th{
+    border: 1px solid black;
+}
+
+.margin{
+    border: 1px solid black;
+}
