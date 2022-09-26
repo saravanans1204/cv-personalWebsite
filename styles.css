@@ -12,12 +12,13 @@ body{
     margin: 0;
     padding: 0;
     padding-top: 40px;
-    height: 1000px;
+    height: 5000px;
     
 }
 #pic{
     padding: 20%;
     width: 20%;
+
 }
 
 .skill_table{
@@ -59,6 +60,7 @@ h3{
     overflow: hidden;
     position: relative;
     top: 23px;
+    
 
 }
 
@@ -78,13 +80,15 @@ h3{
 .right-cloud{
     position: absolute;
     right:-30px;
-    top:180px
+    top:180px;
+    
 }
 
 .left-cloud{
     position: absolute;
     left:51px;
     top:226px;
+    
    
     
     
@@ -108,6 +112,7 @@ h3{
     width:100%;
     height: 50px;
     background-color: #444141;
+    z-index: 10;
 }
 
 
@@ -197,6 +202,7 @@ h3{
 .web_developer_pic{
    background-color: rgba(248, 248, 248, 0.582);
    border-radius: 70px;
+   
     
 }
 
